@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="MS beam (ISMB) profile">
+<defs>
+  <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f4f6f8"/><stop offset=".55" stop-color="#c9d0d6"/><stop offset="1" stop-color="#9ba5ae"/>
+  </linearGradient>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#e9e1d4" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="glow" cx=".5" cy=".55" r=".6">
+    <stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#f6efe4" stop-opacity="0"/>
+  </radialGradient>
+  <path id="p" d="M80 64H180V80H136V180H180V196H80V180H124V80H80Z" fill-rule="evenodd"/>
+</defs>
+<rect width="320" height="220" fill="#f6efe4"/>
+<rect width="320" height="220" fill="url(#grid)"/>
+<rect width="320" height="220" fill="url(#glow)"/>
+<ellipse cx="170" cy="196" rx="120" ry="10" fill="#2a1a08" opacity=".08"/>
+  <use href="#p" x="52.00" y="-36.00" fill="#464e56"/>
+  <use href="#p" x="50.70" y="-35.10" fill="#474f57"/>
+  <use href="#p" x="49.40" y="-34.20" fill="#485058"/>
+  <use href="#p" x="48.10" y="-33.30" fill="#4a525a"/>
+  <use href="#p" x="46.80" y="-32.40" fill="#4b535b"/>
+  <use href="#p" x="45.50" y="-31.50" fill="#4d555d"/>
+  <use href="#p" x="44.20" y="-30.60" fill="#4e565e"/>
+  <use href="#p" x="42.90" y="-29.70" fill="#505860"/>
+  <use href="#p" x="41.60" y="-28.80" fill="#515961"/>
+  <use href="#p" x="40.30" y="-27.90" fill="#535b63"/>
+  <use href="#p" x="39.00" y="-27.00" fill="#545c64"/>
+  <use href="#p" x="37.70" y="-26.10" fill="#555d65"/>
+  <use href="#p" x="36.40" y="-25.20" fill="#575f67"/>
+  <use href="#p" x="35.10" y="-24.30" fill="#586068"/>
+  <use href="#p" x="33.80" y="-23.40" fill="#5a626a"/>
+  <use href="#p" x="32.50" y="-22.50" fill="#5b636b"/>
+  <use href="#p" x="31.20" y="-21.60" fill="#5d656d"/>
+  <use href="#p" x="29.90" y="-20.70" fill="#5e666e"/>
+  <use href="#p" x="28.60" y="-19.80" fill="#606870"/>
+  <use href="#p" x="27.30" y="-18.90" fill="#616971"/>
+  <use href="#p" x="26.00" y="-18.00" fill="#636b73"/>
+  <use href="#p" x="24.70" y="-17.10" fill="#646c74"/>
+  <use href="#p" x="23.40" y="-16.20" fill="#656d75"/>
+  <use href="#p" x="22.10" y="-15.30" fill="#676f77"/>
+  <use href="#p" x="20.80" y="-14.40" fill="#687078"/>
+  <use href="#p" x="19.50" y="-13.50" fill="#6a727a"/>
+  <use href="#p" x="18.20" y="-12.60" fill="#6b737b"/>
+  <use href="#p" x="16.90" y="-11.70" fill="#6d757d"/>
+  <use href="#p" x="15.60" y="-10.80" fill="#6e767e"/>
+  <use href="#p" x="14.30" y="-9.90" fill="#707880"/>
+  <use href="#p" x="13.00" y="-9.00" fill="#717981"/>
+  <use href="#p" x="11.70" y="-8.10" fill="#727a82"/>
+  <use href="#p" x="10.40" y="-7.20" fill="#747c84"/>
+  <use href="#p" x="9.10" y="-6.30" fill="#757d85"/>
+  <use href="#p" x="7.80" y="-5.40" fill="#777f87"/>
+  <use href="#p" x="6.50" y="-4.50" fill="#788088"/>
+  <use href="#p" x="5.20" y="-3.60" fill="#7a828a"/>
+  <use href="#p" x="3.90" y="-2.70" fill="#7b838b"/>
+  <use href="#p" x="2.60" y="-1.80" fill="#7d858d"/>
+  <use href="#p" x="1.30" y="-0.90" fill="#7e868e"/>
+  <use href="#p" fill="url(#face)" stroke="#4b535a" stroke-width="1"/>
+</svg>

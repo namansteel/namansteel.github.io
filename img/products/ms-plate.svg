@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="MS plates stack">
+<defs>
+  <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f4f6f8"/><stop offset=".55" stop-color="#c9d0d6"/><stop offset="1" stop-color="#9ba5ae"/>
+  </linearGradient>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#e9e1d4" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="glow" cx=".5" cy=".55" r=".6">
+    <stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#f6efe4" stop-opacity="0"/>
+  </radialGradient>
+  <path id="s" d="M0 0H150V14H0Z"/>
+</defs>
+<rect width="320" height="220" fill="#f6efe4"/>
+<rect width="320" height="220" fill="url(#grid)"/>
+<rect width="320" height="220" fill="url(#glow)"/>
+<ellipse cx="170" cy="196" rx="120" ry="10" fill="#2a1a08" opacity=".08"/>
+  <use href="#s" x="128.40" y="126.80" fill="#464e56"/>
+  <use href="#s" x="127.00" y="127.50" fill="#474f57"/>
+  <use href="#s" x="125.60" y="128.20" fill="#485058"/>
+  <use href="#s" x="124.20" y="128.90" fill="#495159"/>
+  <use href="#s" x="122.80" y="129.60" fill="#4a525a"/>
+  <use href="#s" x="121.40" y="130.30" fill="#4b535b"/>
+  <use href="#s" x="120.00" y="131.00" fill="#4c545c"/>
+  <use href="#s" x="118.60" y="131.70" fill="#4d555d"/>
+  <use href="#s" x="117.20" y="132.40" fill="#4e565e"/>
+  <use href="#s" x="115.80" y="133.10" fill="#4f575f"/>
+  <use href="#s" x="114.40" y="133.80" fill="#505860"/>
+  <use href="#s" x="113.00" y="134.50" fill="#515961"/>
+  <use href="#s" x="111.60" y="135.20" fill="#525a62"/>
+  <use href="#s" x="110.20" y="135.90" fill="#535b63"/>
+  <use href="#s" x="108.80" y="136.60" fill="#545c64"/>
+  <use href="#s" x="107.40" y="137.30" fill="#555d65"/>
+  <use href="#s" x="106.00" y="138.00" fill="#565e66"/>
+  <use href="#s" x="104.60" y="138.70" fill="#575f67"/>
+  <use href="#s" x="103.20" y="139.40" fill="#586068"/>
+  <use href="#s" x="101.80" y="140.10" fill="#596169"/>
+  <use href="#s" x="100.40" y="140.80" fill="#5a626a"/>
+  <use href="#s" x="99.00" y="141.50" fill="#5b636b"/>
+  <use href="#s" x="97.60" y="142.20" fill="#5c646c"/>
+  <use href="#s" x="96.20" y="142.90" fill="#5d656d"/>
+  <use href="#s" x="94.80" y="143.60" fill="#5e666e"/>
+  <use href="#s" x="93.40" y="144.30" fill="#5f676f"/>
+  <use href="#s" x="92.00" y="145.00" fill="#606870"/>
+  <use href="#s" x="90.60" y="145.70" fill="#616971"/>
+  <use href="#s" x="89.20" y="146.40" fill="#636b73"/>
+  <use href="#s" x="87.80" y="147.10" fill="#646c74"/>
+  <use href="#s" x="86.40" y="147.80" fill="#656d75"/>
+  <use href="#s" x="85.00" y="148.50" fill="#666e76"/>
+  <use href="#s" x="83.60" y="149.20" fill="#676f77"/>
+  <use href="#s" x="82.20" y="149.90" fill="#687078"/>
+  <use href="#s" x="80.80" y="150.60" fill="#697179"/>
+  <use href="#s" x="79.40" y="151.30" fill="#6a727a"/>
+  <use href="#s" x="78.00" y="152.00" fill="#6b737b"/>
+  <use href="#s" x="76.60" y="152.70" fill="#6c747c"/>
+  <use href="#s" x="75.20" y="153.40" fill="#6d757d"/>
+  <use href="#s" x="73.80" y="154.10" fill="#6e767e"/>
+  <use href="#s" x="72.40" y="154.80" fill="#6f777f"/>
+  <use href="#s" x="71.00" y="155.50" fill="#707880"/>
+  <use href="#s" x="69.60" y="156.20" fill="#717981"/>
+  <use href="#s" x="68.20" y="156.90" fill="#727a82"/>
+  <use href="#s" x="66.80" y="157.60" fill="#737b83"/>
+  <use href="#s" x="65.40" y="158.30" fill="#747c84"/>
+  <use href="#s" x="64.00" y="159.00" fill="#757d85"/>
+  <use href="#s" x="62.60" y="159.70" fill="#767e86"/>
+  <use href="#s" x="61.20" y="160.40" fill="#777f87"/>
+  <use href="#s" x="59.80" y="161.10" fill="#788088"/>
+  <use href="#s" x="58.40" y="161.80" fill="#798189"/>
+  <use href="#s" x="57.00" y="162.50" fill="#7a828a"/>
+  <use href="#s" x="55.60" y="163.20" fill="#7b838b"/>
+  <use href="#s" x="54.20" y="163.90" fill="#7c848c"/>
+  <use href="#s" x="52.80" y="164.60" fill="#7d858d"/>
+  <use href="#s" x="51.40" y="165.30" fill="#7e868e"/>
+  <use href="#s" x="50" y="166" fill="url(#face)" stroke="#4b535a" stroke-width="1"/>
+  <use href="#s" x="129.40" y="109.80" fill="#464e56"/>
+  <use href="#s" x="128.00" y="110.50" fill="#474f57"/>
+  <use href="#s" x="126.60" y="111.20" fill="#485058"/>
+  <use href="#s" x="125.20" y="111.90" fill="#495159"/>
+  <use href="#s" x="123.80" y="112.60" fill="#4a525a"/>
+  <use href="#s" x="122.40" y="113.30" fill="#4b535b"/>
+  <use href="#s" x="121.00" y="114.00" fill="#4c545c"/>
+  <use href="#s" x="119.60" y="114.70" fill="#4d555d"/>
+  <use href="#s" x="118.20" y="115.40" fill="#4e565e"/>
+  <use href="#s" x="116.80" y="116.10" fill="#4f575f"/>
+  <use href="#s" x="115.40" y="116.80" fill="#505860"/>
+  <use href="#s" x="114.00" y="117.50" fill="#515961"/>
+  <use href="#s" x="112.60" y="118.20" fill="#525a62"/>
+  <use href="#s" x="111.20" y="118.90" fill="#535b63"/>
+  <use href="#s" x="109.80" y="119.60" fill="#545c64"/>
+  <use href="#s" x="108.40" y="120.30" fill="#555d65"/>
+  <use href="#s" x="107.00" y="121.00" fill="#565e66"/>
+  <use href="#s" x="105.60" y="121.70" fill="#575f67"/>
+  <use href="#s" x="104.20" y="122.40" fill="#586068"/>
+  <use href="#s" x="102.80" y="123.10" fill="#596169"/>
+  <use href="#s" x="101.40" y="123.80" fill="#5a626a"/>
+  <use href="#s" x="100.00" y="124.50" fill="#5b636b"/>
+  <use href="#s" x="98.60" y="125.20" fill="#5c646c"/>
+  <use href="#s" x="97.20" y="125.90" fill="#5d656d"/>
+  <use href="#s" x="95.80" y="126.60" fill="#5e666e"/>
+  <use href="#s" x="94.40" y="127.30" fill="#5f676f"/>
+  <use href="#s" x="93.00" y="128.00" fill="#606870"/>
+  <use href="#s" x="91.60" y="128.70" fill="#616971"/>
+  <use href="#s" x="90.20" y="129.40" fill="#636b73"/>
+  <use href="#s" x="88.80" y="130.10" fill="#646c74"/>
+  <use href="#s" x="87.40" y="130.80" fill="#656d75"/>
+  <use href="#s" x="86.00" y="131.50" fill="#666e76"/>
+  <use href="#s" x="84.60" y="132.20" fill="#676f77"/>
+  <use href="#s" x="83.20" y="132.90" fill="#687078"/>
+  <use href="#s" x="81.80" y="133.60" fill="#697179"/>
+  <use href="#s" x="80.40" y="134.30" fill="#6a727a"/>
+  <use href="#s" x="79.00" y="135.00" fill="#6b737b"/>
+  <use href="#s" x="77.60" y="135.70" fill="#6c747c"/>
+  <use href="#s" x="76.20" y="136.40" fill="#6d757d"/>
+  <use href="#s" x="74.80" y="137.10" fill="#6e767e"/>
+  <use href="#s" x="73.40" y="137.80" fill="#6f777f"/>
+  <use href="#s" x="72.00" y="138.50" fill="#707880"/>
+  <use href="#s" x="70.60" y="139.20" fill="#717981"/>
+  <use href="#s" x="69.20" y="139.90" fill="#727a82"/>
+  <use href="#s" x="67.80" y="140.60" fill="#737b83"/>
+  <use href="#s" x="66.40" y="141.30" fill="#747c84"/>
+  <use href="#s" x="65.00" y="142.00" fill="#757d85"/>
+  <use href="#s" x="63.60" y="142.70" fill="#767e86"/>
+  <use href="#s" x="62.20" y="143.40" fill="#777f87"/>
+  <use href="#s" x="60.80" y="144.10" fill="#788088"/>
+  <use href="#s" x="59.40" y="144.80" fill="#798189"/>
+  <use href="#s" x="58.00" y="145.50" fill="#7a828a"/>
+  <use href="#s" x="56.60" y="146.20" fill="#7b838b"/>
+  <use href="#s" x="55.20" y="146.90" fill="#7c848c"/>
+  <use href="#s" x="53.80" y="147.60" fill="#7d858d"/>
+  <use href="#s" x="52.40" y="148.30" fill="#7e868e"/>
+  <use href="#s" x="51" y="149" fill="url(#face)" stroke="#4b535a" stroke-width="1"/>
+  <use href="#s" x="130.40" y="92.80" fill="#464e56"/>
+  <use href="#s" x="129.00" y="93.50" fill="#474f57"/>
+  <use href="#s" x="127.60" y="94.20" fill="#485058"/>
+  <use href="#s" x="126.20" y="94.90" fill="#495159"/>
+  <use href="#s" x="124.80" y="95.60" fill="#4a525a"/>
+  <use href="#s" x="123.40" y="96.30" fill="#4b535b"/>
+  <use href="#s" x="122.00" y="97.00" fill="#4c545c"/>
+  <use href="#s" x="120.60" y="97.70" fill="#4d555d"/>
+  <use href="#s" x="119.20" y="98.40" fill="#4e565e"/>
+  <use href="#s" x="117.80" y="99.10" fill="#4f575f"/>
+  <use href="#s" x="116.40" y="99.80" fill="#505860"/>
+  <use href="#s" x="115.00" y="100.50" fill="#515961"/>
+  <use href="#s" x="113.60" y="101.20" fill="#525a62"/>
+  <use href="#s" x="112.20" y="101.90" fill="#535b63"/>
+  <use href="#s" x="110.80" y="102.60" fill="#545c64"/>
+  <use href="#s" x="109.40" y="103.30" fill="#555d65"/>
+  <use href="#s" x="108.00" y="104.00" fill="#565e66"/>
+  <use href="#s" x="106.60" y="104.70" fill="#575f67"/>
+  <use href="#s" x="105.20" y="105.40" fill="#586068"/>
+  <use href="#s" x="103.80" y="106.10" fill="#596169"/>
+  <use href="#s" x="102.40" y="106.80" fill="#5a626a"/>
+  <use href="#s" x="101.00" y="107.50" fill="#5b636b"/>
+  <use href="#s" x="99.60" y="108.20" fill="#5c646c"/>
+  <use href="#s" x="98.20" y="108.90" fill="#5d656d"/>
+  <use href="#s" x="96.80" y="109.60" fill="#5e666e"/>
+  <use href="#s" x="95.40" y="110.30" fill="#5f676f"/>
+  <use href="#s" x="94.00" y="111.00" fill="#606870"/>
+  <use href="#s" x="92.60" y="111.70" fill="#616971"/>
+  <use href="#s" x="91.20" y="112.40" fill="#636b73"/>
+  <use href="#s" x="89.80" y="113.10" fill="#646c74"/>
+  <use href="#s" x="88.40" y="113.80" fill="#656d75"/>
+  <use href="#s" x="87.00" y="114.50" fill="#666e76"/>
+  <use href="#s" x="85.60" y="115.20" fill="#676f77"/>
+  <use href="#s" x="84.20" y="115.90" fill="#687078"/>
+  <use href="#s" x="82.80" y="116.60" fill="#697179"/>
+  <use href="#s" x="81.40" y="117.30" fill="#6a727a"/>
+  <use href="#s" x="80.00" y="118.00" fill="#6b737b"/>
+  <use href="#s" x="78.60" y="118.70" fill="#6c747c"/>
+  <use href="#s" x="77.20" y="119.40" fill="#6d757d"/>
+  <use href="#s" x="75.80" y="120.10" fill="#6e767e"/>
+  <use href="#s" x="74.40" y="120.80" fill="#6f777f"/>
+  <use href="#s" x="73.00" y="121.50" fill="#707880"/>
+  <use href="#s" x="71.60" y="122.20" fill="#717981"/>
+  <use href="#s" x="70.20" y="122.90" fill="#727a82"/>
+  <use href="#s" x="68.80" y="123.60" fill="#737b83"/>
+  <use href="#s" x="67.40" y="124.30" fill="#747c84"/>
+  <use href="#s" x="66.00" y="125.00" fill="#757d85"/>
+  <use href="#s" x="64.60" y="125.70" fill="#767e86"/>
+  <use href="#s" x="63.20" y="126.40" fill="#777f87"/>
+  <use href="#s" x="61.80" y="127.10" fill="#788088"/>
+  <use href="#s" x="60.40" y="127.80" fill="#798189"/>
+  <use href="#s" x="59.00" y="128.50" fill="#7a828a"/>
+  <use href="#s" x="57.60" y="129.20" fill="#7b838b"/>
+  <use href="#s" x="56.20" y="129.90" fill="#7c848c"/>
+  <use href="#s" x="54.80" y="130.60" fill="#7d858d"/>
+  <use href="#s" x="53.40" y="131.30" fill="#7e868e"/>
+  <use href="#s" x="52" y="132" fill="url(#face)" stroke="#4b535a" stroke-width="1"/>
+</svg>
