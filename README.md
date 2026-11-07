@@ -9,4 +9,4 @@ Plain HTML/CSS/JS hosted on GitHub Pages. There's no build step: edit the files 
 - `contact.html`: phone, hours, map, directions
 - `store.html`: redirect from the old URL to `contact.html`
 - `css/style.css`: all styles
-- `img/products/*.svg`: product illustrations
+- `img/photos/*.jpg`: product photos from Pexels (free licence, pexels.com/license); `-sm` versions for phones
